@@ -1,3 +1,24 @@
 h1{
     color:blue
 }
+.bgimage {
+    height:100vh;
+    background: url('https://static.wikia.nocookie.net/marveldatabase/images/2/20/Iron_Man_Armor_Model_3_from_All-New_Iron_Manual_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/250?cb=20170122055210');
+    background-size:cover;
+    position:relative;
+}
+/* text css above hero image*/
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: purple;
+}
