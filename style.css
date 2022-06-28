@@ -3,7 +3,7 @@ h1{
 }
 .bgimage {
     height:100vh;
-    background: url('https://static.wikia.nocookie.net/marveldatabase/images/2/20/Iron_Man_Armor_Model_3_from_All-New_Iron_Manual_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/250?cb=20170122055210');
+    background: url(' https://place-puppy.com/300x300');
     background-size:cover;
     position:relative;
 }
@@ -24,4 +24,22 @@ h1{
 }
 .imageAboutPage {
     width: 100%;
+}
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
 }
