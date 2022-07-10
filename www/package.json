@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_website_fcc",
+  "version": "1.0.0",
+  "description": "HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website ======= ![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayan1000/portfolio_website_fcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayan1000/portfolio_website_fcc/issues"
+  },
+  "homepage": "https://github.com/Jayan1000/portfolio_website_fcc#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
